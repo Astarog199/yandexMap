@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapYandex</string>
+    <string name="enter_your_address">enter your address</string>
+    <string name="search_button">search</string>
+</resources>
